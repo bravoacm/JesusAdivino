@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class Aciertos {
@@ -19,6 +18,6 @@ public class Aciertos {
             cont++;
         } while (n != x);
         System.out.print("Exelente!!! Haz acertado , No. de intentos: "+cont );
-
+        sc.close();
     }
 }
