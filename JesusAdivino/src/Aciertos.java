@@ -1,3 +1,7 @@
+/*
+* Correción realizada por Adrián Bravo
+* Todo correcto
+*/
 import java.util.Scanner;
 /*El proyecto plantea un juego: adivinar el número que genera de manera aleatoria el programa.
 Primero se genera el número aleatorio, a continuación se pide al usuario que introduzca un número entero.
